@@ -1,7 +1,7 @@
 # Google Play Store - Exploratory Data Analysis (EDA)
 
 **Author: Megha Kallapur**  
- Bengaluru, India | meghakallapur22@gmail.com 
+ Bengaluru, India | meghakallapur22@gmail.com | GitHub : https://github.com/Megha-B-K
 
 ## Overview
 Comprehensive EDA on **Google Play Store dataset** with **10,000+ apps** to analyze app performance, category trends, rating patterns, and pricing strategies. Classic data analytics project used worldwide for portfolio building.
