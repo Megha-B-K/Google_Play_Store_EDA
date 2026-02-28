@@ -3,7 +3,7 @@
 **Author: Megha Kallapur**  
  Bengaluru, India | meghakallapur22@gmail.com | GitHub : https://github.com/Megha-B-K
 
-# Google Play Store App Analysis - EDA 📱📈
+# Google Play Store App Analysis - EDA
 
 **Location**: Karnataka, India  
 **[GitHub](https://github.com/Megha-B-K)** | **[LinkedIn](https://linkedin.com/in/meghakallapur)**
