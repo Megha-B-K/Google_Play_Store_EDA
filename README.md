@@ -6,8 +6,7 @@
 # Google Play Store App Analysis - EDA
 
 **Location**: Karnataka, India  
-**[GitHub](https://github.com/Megha-B-K)** | **[LinkedIn](https://linkedin.com/in/meghakallapur)**
-
+**[GitHub](https://github.com/Megha-B-K)** 
 ---
 
 ## Project Overview
